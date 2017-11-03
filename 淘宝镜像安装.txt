@@ -4,4 +4,4 @@ $ gem sources -l
 
 https://gems.ruby-china.org
 # 请确保只有 gems.ruby-china.org
-$ gem install rails
+$ gem install rails1 
